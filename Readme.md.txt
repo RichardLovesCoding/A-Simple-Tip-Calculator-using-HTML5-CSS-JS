@@ -1,0 +1,1 @@
+A Basic Tip Calculator that is made with HTML5, CSS and JS. 
